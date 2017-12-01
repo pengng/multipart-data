@@ -1,0 +1,22 @@
+{
+  "name": "multipart",
+  "version": "0.0.1",
+  "description": "multipart",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengng/multipart.git"
+  },
+  "keywords": [
+    "multipart"
+  ],
+  "author": "yupeng.kuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pengng/multipart/issues"
+  },
+  "homepage": "https://github.com/pengng/multipart#readme"
+}
