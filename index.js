@@ -1,1 +1,3 @@
-module.exports = require('./lib/form')
+module.exports = {
+  Form: require('./lib/form')
+}

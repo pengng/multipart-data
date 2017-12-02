@@ -1,22 +1,22 @@
 {
-  "name": "multipart",
+  "name": "multipart-data",
   "version": "0.0.1",
-  "description": "multipart",
+  "description": "multipart-data",
   "main": "index.js",
-  "scripts": {
-    "test": " "
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pengng/multipart.git"
+    "url": "git+https://github.com/pengng/multipart-data.git"
   },
   "keywords": [
-    "multipart"
+    "multipart",
+    "form-data",
+    "parse"
   ],
   "author": "yupeng.kuo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pengng/multipart/issues"
+    "url": "https://github.com/pengng/multipart-data/issues"
   },
-  "homepage": "https://github.com/pengng/multipart#readme"
+  "homepage": "https://github.com/pengng/multipart-data#readme"
 }
